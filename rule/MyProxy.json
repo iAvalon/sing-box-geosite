@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "crvesoft.top",
+        "dns-dynamic.net",
+        "hhan.club",
+        "immortalwrt.org",
+        "ip-api.com",
+        "ip.sb",
+        "ipapi.is",
+        "ipify.org",
+        "ipinfo.io",
+        "ipwho.is",
+        "jkun.waimaosass.icu",
+        "link123.52pokemon99.cc",
+        "linkcube.org",
+        "linux.do",
+        "oldfriend.me",
+        "selinux.link",
+        "wcloud.store",
+        "weyolo.com",
+        "xiaoyao-88.com",
+        "xn--9kqz23b19z.com"
+      ]
+    }
+  ],
+  "version": 1
+}
