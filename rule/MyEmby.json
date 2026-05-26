@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "hhan.club"
+      ]
+    },
+    {
       "domain_suffix": [
         "101514.xyz",
         "114514.quest",
@@ -12,7 +17,6 @@
         "emby.istyboe.top",
         "feiyue.lol",
         "handoumedia.top",
-        "hhan.club",
         "hohai.eu.org",
         "linux.do",
         "lyezi.cc",
