@@ -1,16 +1,20 @@
 {
   "rules": [
     {
+      "domain": [
+        "ip-api.com",
+        "ip.sb",
+        "ipwho.is"
+      ]
+    },
+    {
       "domain_suffix": [
+        "browserleaks.com",
         "crvesoft.top",
         "dns-dynamic.net",
         "immortalwrt.org",
-        "ip-api.com",
-        "ip.sb",
         "ipapi.is",
         "ipify.org",
-        "ipinfo.io",
-        "ipwho.is",
         "jkun.waimaosass.icu",
         "liangxin.xyz",
         "link123.52pokemon99.cc",
