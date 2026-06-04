@@ -10,7 +10,8 @@
       "domain_suffix": [
         "api-linkcube.dev",
         "api-linkcube.net",
-        "api.linkcube.dev"
+        "api.linkcube.dev",
+        "v6.gh-proxy.org"
       ]
     }
   ],
