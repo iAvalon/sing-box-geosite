@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ifastfinancial.com",
+        "ifastgb.com",
+        "iifastgb.net"
+      ]
+    }
+  ],
+  "version": 1
+}
