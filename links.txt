@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/iAvalon/custom_mihomo_ruleset/refs/heads/main/
 https://raw.githubusercontent.com/iAvalon/custom_mihomo_ruleset/refs/heads/main/yaml/MyProxy.yaml
 https://raw.githubusercontent.com/iAvalon/custom_mihomo_ruleset/refs/heads/main/yaml/MyEmby.yaml
 https://raw.githubusercontent.com/iAvalon/custom_mihomo_ruleset/refs/heads/main/yaml/category-pt.yaml
+https://raw.githubusercontent.com/iAvalon/custom_mihomo_ruleset/refs/heads/main/yaml/ifastgb.yaml
