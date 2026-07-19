@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ip-api.com",
+        "ip.sb",
+        "ipwho.is"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "browserleaks.com",
+        "browserleaks.net",
+        "browserleaks.org",
+        "ipapi.is",
+        "ipify.org",
+        "tty.mom"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "1.0.0.2/32",
+        "2606:4700:4700::1111/128"
+      ]
+    }
+  ],
+  "version": 1
+}

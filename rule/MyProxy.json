@@ -1,29 +1,16 @@
 {
   "rules": [
     {
-      "domain": [
-        "ip-api.com",
-        "ip.sb",
-        "ipwho.is"
-      ]
-    },
-    {
       "domain_suffix": [
-        "browserleaks.com",
-        "browserleaks.net",
-        "browserleaks.org",
         "crvesoft.top",
         "dns-dynamic.net",
         "immortalwrt.org",
-        "ipapi.is",
-        "ipify.org",
         "jkun.waimaosass.icu",
         "liangxin.xyz",
         "link123.52pokemon99.cc",
         "linkcube.org",
         "oldfriend.me",
         "selinux.link",
-        "tty.mom",
         "wcloud.store",
         "weyolo.com",
         "xiaoyao-88.com",

@@ -2,6 +2,8 @@
   "rules": [
     {
       "domain": [
+        "4.ipcheck.ing",
+        "6.ipcheck.ing",
         "tracker.hhan.club",
         "tracker.trackerfile.com"
       ]

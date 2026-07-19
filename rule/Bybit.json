@@ -1,0 +1,30 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "bybit-exchange.github.io"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "bituniverse.org",
+        "byapps.net",
+        "bybit.club",
+        "bybit.com",
+        "bybit.com.co",
+        "bybit.eu",
+        "bybit.io",
+        "bybit.is",
+        "bybit.nl",
+        "bybit.sh",
+        "bybitcorp.com",
+        "bybitglobal.com",
+        "bybithk.whecloud.com",
+        "bybstatic.com",
+        "bycsi.com",
+        "bytcapi.com"
+      ]
+    }
+  ],
+  "version": 1
+}
