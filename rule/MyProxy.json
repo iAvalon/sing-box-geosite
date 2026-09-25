@@ -1,13 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "ip-api.com",
-        "ip.sb",
-        "ipwho.is"
-      ]
-    },
-    {
       "domain_suffix": [
         "browserleaks.com",
         "browserleaks.net",
@@ -16,8 +9,11 @@
         "dns-dynamic.net",
         "hhan.club",
         "immortalwrt.org",
+        "ip-api.com",
+        "ip.sb",
         "ipapi.is",
         "ipify.org",
+        "ipwho.is",
         "jkun.waimaosass.icu",
         "liangxin.xyz",
         "link123.52pokemon99.cc",
@@ -31,13 +27,6 @@
         "weyolo.com",
         "xiaoyao-88.com",
         "xn--9kqz23b19z.com"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "1.0.0.2/32",
-        "2604:a880:800:10::e6:b001/128",
-        "2606:4700:4700::1111/128"
       ]
     }
   ],
